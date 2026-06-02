@@ -1,15 +1,17 @@
 {
-  "versionCode": 67,
-  "versionName": "5.1.43",
-  "apkUrl": "https://github.com/golcueray-ui/ironrise-updates/releases/download/v5.1.43/ironrise-v5.1.43.apk",
-  "sha256": "5d100ca6810cb52021e5259e384dc294cba41c1025860ae88534f20d478fcfd9",
+  "versionCode": 69,
+  "versionName": "5.1.45",
+  "apkUrl": "https://github.com/golcueray-ui/ironrise-updates/releases/download/v5.1.45/ironrise-v5.1.45.apk",
+  "sha256": "ca74c99c57f884e06f95e8c16fd0a9796878ebb2d9a34c9ac0d8e19970977a7a",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-02T05:17:24.266Z",
-  "summary": "IronRise v5.1.43 menü görsel fix hazır.",
+  "releasedAt": "2026-06-02T11:00:49.161Z",
+  "summary": "IronRise v5.1.45 sade menu, koc ve serbest idman UX duzeltmeleri.",
   "changelog": [
-    "Komut menüsü açma butonu üst durum çubuğuna bağlandı",
-    "Mobil alt dock, desktop command bar ve command menü görsel olarak doğrulandı",
-    "Eski menü ve Solo/System kalıntıları APK içinde temiz doğrulandı"
+    "Sade ana menu ve alt navigasyon",
+    "Serbest idman hareket ekleme sonrasi direkt set giris akisi",
+    "Koc detaylari varsayilanda kapali, karar zinciri sade",
+    "Guncelle butonu ana akislarin uzerinden kaldirildi",
+    "Smoke test ile serbest idman kaydi dogrulandi"
   ]
 }
