@@ -1,18 +1,17 @@
 {
-  "versionCode": 64,
-  "versionName": "5.1.40",
-  "apkUrl": "https://github.com/golcueray-ui/ironrise-updates/releases/download/v5.1.40/ironrise-v5.1.40.apk",
-  "sha256": "5926db5c656596e2e76c5c4e0f2b5b372159f70fcac6bad8d6cf7a4454f47390",
+  "versionCode": 65,
+  "versionName": "5.1.41",
+  "apkUrl": "https://github.com/golcueray-ui/ironrise-updates/releases/download/v5.1.41/ironrise-v5.1.41.apk",
+  "sha256": "d55db92a8e8e310aa845a5ef68dfc31333e7595190fd3d23ea7ff9858c8d7c8f",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T19:31:56.934Z",
-  "summary": "IronRise v5.1.40 hazır.",
+  "releasedAt": "2026-06-02T04:45:53.782Z",
+  "summary": "IronRise v5.1.41 menü yenilemesi hazır.",
   "changelog": [
-    "Yeni sade AI koç merkezi",
-    "Serbest idman akışı güçlendirildi",
-    "Hareket kütüphanesine 3D animasyon eklendi",
-    "Gelişim takip paneli yenilendi",
-    "Update kanalı IronRise manifestine sabitlendi",
-    "IronRise marka kalıntıları temizlendi"
+    "Görsel menü düzeni tamamen yenilendi",
+    "Mobil alt menü IronRise command dock olarak yeniden yapıldı",
+    "Desktop ana menü sade command bar olarak yeniden çizildi",
+    "Eski Solo/System görsel kalıntıları temizlendi",
+    "Serbest idman ve AI koç girişleri görünür kaldı"
   ]
 }
