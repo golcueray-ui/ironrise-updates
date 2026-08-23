@@ -1,16 +1,16 @@
 {
-  "versionCode": 70,
-  "versionName": "5.1.46",
-  "apkUrl": "https://github.com/golcueray-ui/ironrise-updates/releases/download/v5.1.46/ironrise-v5.1.46.apk",
-  "sha256": "163d4c6ff27ad69346dd7f62878675b443d988a0a120fe36f8b413b8f35768a3",
+  "versionCode": 71,
+  "versionName": "5.1.47",
+  "apkUrl": "https://github.com/golcueray-ui/ironrise-updates/releases/download/v5.1.47/ironrise-v5.1.47.apk",
+  "sha256": "a0958ac3a41d867640e49ad3fffa8db547387e8c6cc76808cd1fe07b47631ea8",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-02T11:38:45.817Z",
-  "summary": "IronRise v5.1.46 APK update flow status fix ve sade UI paketi.",
+  "releasedAt": "2026-08-23T11:51:42.613Z",
+  "summary": "IronRise v5.1.47 desktop AI bağlantı ve giriş düzeltmeleri.",
   "changelog": [
-    "Update flow installer-opened status fix",
-    "Yeni surum var kontrolu remote manifest ile dogrulandi",
-    "APK indirme SHA dogrulamasi dogrulandi",
-    "Sade menu, koc ve serbest idman UX duzeltmeleri"
+    "Windows EXE Gemini doğrulama rotası düzeltildi",
+    "Google giriş popup ve localhost origin düzeltildi",
+    "Android APK versionCode 71 olarak üretildi",
+    "IronMind ve ULTRON production paketi güncellendi"
   ]
 }
